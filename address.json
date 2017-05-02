@@ -1,0 +1,51 @@
+{
+  "status":"0",
+  "message":"",
+  "result":[
+    {
+      "addressId":"100001",
+      "userName":"JackBean",
+      "streetName":"北京市朝阳区朝阳公园",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":true,
+      "del": false
+    },
+    {
+      "addressId":"100002",
+      "userName":"JackBean",
+      "streetName":"aaaaaaa",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false,
+      "del": false
+    },
+    {
+      "addressId":"100003",
+      "userName":"JackBean",
+      "streetName":"bbbbbb",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false,
+      "del": false
+    },
+    {
+      "addressId":"100004",
+      "userName":"JackBean",
+      "streetName":"ccccc",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false,
+      "del": false
+    },
+    {
+      "addressId":"100005",
+      "userName":"JackBean",
+      "streetName":"ddddd",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false,
+      "del": false
+    }
+  ]
+}
